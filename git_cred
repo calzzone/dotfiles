@@ -1,0 +1,6 @@
+GITHUB_USER="calzzone"
+GITHUB_PASSWORD="112358#RammsteiN"
+
+git config --global user.name "Alex Istrate"
+git config --global user.email "calzzon3@gmail.com"
+git config --global hub.protocol https
